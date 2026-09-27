@@ -1,13 +1,8 @@
 # Herbs App - Promotional Landing Page
 
-```
-██╗  ██╗███████╗██████╗ ██████╗  ██████╗
-██║  ██║██╔════╝██╔══██╗██╔══██╗██╔════╝
-███████║█████╗  ██████╔╝██████╔╝███████╗
-██║  ██║██╔══╝  ██╔══██╗██╔══██╗╚════██║
-██║  ██║███████╗██║  ██║██████╔╝██████╔╝
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝╚═════╝
-```
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![HTML5: single file](https://img.shields.io/badge/HTML5-single--file-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/suradet-ps/promote-herbs-app/issues)
 
 ---
 
@@ -15,7 +10,7 @@
 
 A great tool with a door nobody can find is a tool nobody uses. This
 page is the door: a single, self-contained HTML file that introduces
-the [Thai Herbal Formulary App](https://github.com/pharmacist-sabot/herbs-app),
+the [Thai Herbal Formulary App](https://github.com/suradet-ps/herbs-app),
 states its benefits, and points new users to the live app - by button
 or by QR code. Portable enough to share as one file, styled to match
 the app it promotes, built for the moment a pharmacist first hears
@@ -38,7 +33,7 @@ the name.
 One clone, zero build step.
 
 ```
-⟫ git clone https://github.com/pharmacist-sabot/promote-herbs-app.git
+⟫ git clone https://github.com/suradet-ps/promote-herbs-app.git
 ⟫ cd promote-herbs-app
 ```
 
@@ -120,4 +115,4 @@ the QR in `qr-code.png`. Open an issue first to discuss a change.
   ─────────────────────────────────────────
 ```
 
-Open source.
+Open source under the [MIT License](LICENSE).
